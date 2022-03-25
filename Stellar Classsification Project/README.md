@@ -61,6 +61,14 @@ STAR 0.99
 
 
 ## Screenshots
+![stellar data](https://user-images.githubusercontent.com/63599968/160067694-defa077e-3a26-49ba-9e69-3fe88655fa18.png)
 
+![corr](https://user-images.githubusercontent.com/63599968/160067218-f801e968-f290-4244-b30e-e71614422441.png)
+
+![conf mat](https://user-images.githubusercontent.com/63599968/160067623-09543901-4bbe-4c81-83f6-1f33e7f68821.png)
+
+![feat](https://user-images.githubusercontent.com/63599968/160067629-502d9a2b-ebc8-4857-a096-b9dd8120a438.png)
+
+![tree](https://user-images.githubusercontent.com/63599968/160067652-af8c31df-7375-4f6f-9f34-ff595f6e99ec.png)
 
 
