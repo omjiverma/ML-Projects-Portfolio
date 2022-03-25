@@ -47,13 +47,15 @@ The data consists of 100,000 observations of space taken by the SDSS (Sloan Digi
 
 > We want to classifify stellar into galaxy, star or quasar object using ml.
 
+## OUTCOMES
+
 **Achieved Accuracy with train data - 99.99**
 
 **Achieved Accuracy with test data - 97.54**
  
-**Model Accuracy with test data accuracy - 0.98 **
+**Model Accuracy with test data accuracy - 0.98**
 
-**Precision
+**Precision**
 
 > GALAXY 0.98
 
